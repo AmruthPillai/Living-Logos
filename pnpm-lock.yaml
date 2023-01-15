@@ -9,7 +9,7 @@ specifiers:
   eslint: ^8.28.0
   eslint-config-prettier: ^8.5.0
   eslint-plugin-svelte3: ^4.0.0
-  phosphor-svelte: ^1.2.1
+  iconify-icon: ^1.0.2
   prettier: ^2.8.0
   prettier-plugin-svelte: ^2.8.1
   ress: ^5.0.2
@@ -29,7 +29,7 @@ devDependencies:
   eslint: 8.31.0
   eslint-config-prettier: 8.6.0_eslint@8.31.0
   eslint-plugin-svelte3: 4.0.0_btuntbn75dxkba3nofpps2nvzm
-  phosphor-svelte: 1.2.1_svelte@3.55.1
+  iconify-icon: 1.0.2
   prettier: 2.8.2
   prettier-plugin-svelte: 2.9.0_y74x4qymbshr6ujrzcfe2sydsa
   ress: 5.0.2
@@ -279,6 +279,10 @@ packages:
 
   /@humanwhocodes/object-schema/1.2.1:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
+    dev: true
+
+  /@iconify/types/2.0.0:
+    resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
     dev: true
 
   /@jridgewell/resolve-uri/3.1.0:
@@ -1055,6 +1059,12 @@ packages:
       function-bind: 1.1.1
     dev: true
 
+  /iconify-icon/1.0.2:
+    resolution: {integrity: sha512-mehAvz2a4eUAlPo76Wul4zzsPNr3hbOHiauMhPrTVIdLOt0AnccnNloh1EeTO3tYeBv7iaJZfdCPHczvi+CkXQ==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
   /ignore/5.2.4:
     resolution: {integrity: sha512-MAb38BcSbH0eHNBxn7ql2NH/kX33OkB3lZ1BNdh7ENeRChHTYsTvWrMubiIAMNS2llXEEgZ1MUOBtXChP3kaFQ==}
     engines: {node: '>= 4'}
@@ -1323,14 +1333,6 @@ packages:
   /path-type/4.0.0:
     resolution: {integrity: sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==}
     engines: {node: '>=8'}
-    dev: true
-
-  /phosphor-svelte/1.2.1_svelte@3.55.1:
-    resolution: {integrity: sha512-mJDTRr4kBTRYA+SqEAj7rSZ9jbtRWrkqKjn+uYG8Ivhe17LnD685ZehRbQPNdkN8v+T4rjnfnysyKhqn3WXeTw==}
-    peerDependencies:
-      svelte: '>=3'
-    dependencies:
-      svelte: 3.55.1
     dev: true
 
   /picocolors/1.0.0:

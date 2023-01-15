@@ -1,17 +1,18 @@
 <script lang="ts">
+	import 'iconify-icon';
+
 	import logos from '$constants/logos';
-	import { HouseSimple, CodeSimple } from 'phosphor-svelte';
 
 	export let name: string;
 
 	$: logo = logos[name];
-	$: codeUrl = `${name}/+page.svelte`;
+	$: codeUrl = `https://github.com/AmruthPillai/Living-Logos/blob/main/src/routes/logo/${name}/%2Bpage.svelte`;
 </script>
 
 <header>
 	<div>
 		<a href="/" class="btn">
-			<HouseSimple weight="bold" />
+			<iconify-icon icon="ph:house-simple-bold" />
 			<span>Home</span>
 		</a>
 	</div>
@@ -20,7 +21,7 @@
 
 	<div>
 		<a href={codeUrl} target="_blank" rel="noreferrer" class="btn">
-			<CodeSimple weight="bold" />
+			<iconify-icon icon="ph:code-simple-bold" />
 			<span>Code</span>
 		</a>
 	</div>
