@@ -13,6 +13,7 @@ Living Logos is a curation of popular logos, brought to life using HTML, CSS and
 - [Google](https://living-logos.vercel.app/logo/google)
 - [Microsoft](https://living-logos.vercel.app/logo/microsoft)
 - [Figma](https://living-logos.vercel.app/logo/figma)
+- [Dropbox](https://living-logos.vercel.app/logo/dropbox)
 
 ### Tech Stack
 

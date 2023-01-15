@@ -7,7 +7,6 @@
 </div>
 
 <style lang="scss">
-	$color-background: #f8f8f8;
 	$color-figma-red: #f24e1e;
 	$color-figma-peach: #ff7262;
 	$color-figma-purple: #a259ff;

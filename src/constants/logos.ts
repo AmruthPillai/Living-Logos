@@ -47,6 +47,12 @@ export const logos: Record<string, Logo> = {
 		title: 'Figma',
 		path: '/logo/figma',
 		colors: ['#F24E1E', '#FF7262', '#A259FF', '#1ABCFE', '#0ACF83']
+	},
+	dropbox: {
+		image: '/logos/dropbox.png',
+		title: 'Dropbox',
+		path: '/logo/dropbox',
+		colors: ['#007EE5']
 	}
 };
 
