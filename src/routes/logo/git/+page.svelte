@@ -5,7 +5,7 @@
 
 <style lang="scss">
 	$color-git: #f05032;
-	$color-background: #f8f8f8;
+	$color-background: #ffffff;
 
 	.container {
 		width: 300px;

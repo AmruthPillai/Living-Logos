@@ -19,7 +19,7 @@
 
 <style lang="scss">
 	$color-text: #222222;
-	$color-background: #f3f3f3;
+	$color-background: #ffffff;
 
 	.container {
 		width: 100vw;

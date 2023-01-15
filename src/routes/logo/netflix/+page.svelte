@@ -6,9 +6,9 @@
 </div>
 
 <style lang="scss">
+	$color-background: #151515;
 	$color-netflix-600: #e50914;
 	$color-netflix-800: #b1060f;
-	$color-background: #151515;
 
 	.container {
 		width: calc(80px * 3);

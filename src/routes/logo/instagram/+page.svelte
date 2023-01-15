@@ -6,7 +6,7 @@
 </div>
 
 <style lang="scss">
-	$color-background: #f8f8f8;
+	$color-background: #ffffff;
 	$color-instagram-yellow: #feda80;
 	$color-instagram-orange: #f35c3d;
 	$color-instagram-pink: #cf3187;

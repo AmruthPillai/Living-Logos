@@ -13,10 +13,10 @@
 		width: 100vw;
 		height: 100vh;
 
-		color: #f5f5f5;
-		background-color: #151515;
-
 		font-size: 16px;
 		font-family: 'IBM Plex Sans', sans-serif;
+
+		color: #222222;
+		background-color: #ffffff;
 	}
 </style>

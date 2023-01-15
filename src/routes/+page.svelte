@@ -22,33 +22,29 @@
 
 <style lang="scss">
 	.container {
-		text-align: center;
-		padding-top: 48px;
+		text-align: left;
+		padding: 24px;
 
 		img {
 			width: 100%;
-			padding: 0 30px;
-			max-width: 512px;
+			max-width: 300px;
 		}
 	}
 
 	.lead {
-		max-width: 700px;
-		margin: 0 auto;
-		margin-top: 8px;
+		max-width: 600px;
+		margin-top: 16px;
 		line-height: 1.5rem;
 		font-size: 14px;
 		opacity: 0.75;
-		padding: 0 30px;
 	}
 
 	.grid {
 		display: grid;
-		grid-template-columns: repeat(2, minmax(0, 1fr));
 		grid-gap: 24px;
-		margin: 0 auto;
-		margin-top: 64px;
 		max-width: 90vw;
+		margin: 32px 0;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
 
 		@media (min-width: 768px) {
 			grid-template-columns: repeat(4, minmax(0, 1fr));

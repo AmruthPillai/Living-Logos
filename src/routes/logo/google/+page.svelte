@@ -1,7 +1,7 @@
 <div class="container" />
 
 <style lang="scss">
-	$color-background: #f8f8f8;
+	$color-background: #ffffff;
 	$color-google-red: #eb4335;
 	$color-google-yellow: #fbbc05;
 	$color-google-green: #34a853;

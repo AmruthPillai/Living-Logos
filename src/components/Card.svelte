@@ -22,14 +22,15 @@
 	.card {
 		width: 100%;
 		cursor: pointer;
+		text-align: center;
 		border-radius: 4px;
 		aspect-ratio: 1 / 1;
-		border: 1px solid #333;
-		background-color: #181818;
+		border: 1px solid #eee;
+		background-color: #ffffff;
+		transition: background-color 0.25s ease-in-out;
 
 		&:hover {
-			border-color: #444;
-			background-color: #1a1a1a;
+			background-color: #eee;
 		}
 
 		img {
@@ -37,7 +38,8 @@
 		}
 
 		p {
-			font-size: 13px;
+			color: #444;
+			font-size: 12px;
 			font-weight: 600;
 		}
 	}

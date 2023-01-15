@@ -4,7 +4,7 @@
 
 <style lang="scss">
 	$color-youtube: #ff0000;
-	$color-background: #151515;
+	$color-background: #ffffff;
 
 	$elastic: cubic-bezier(0.175, 0.885, 0.32, 1.275);
 
@@ -50,7 +50,7 @@
 		border-top: $size solid transparent;
 		border-bottom: $size solid transparent;
 		border-right: $size solid transparent;
-		border-left: ($size + $offset) solid white;
+		border-left: ($size + $offset) solid $color-background;
 
 		animation: play-animation 1s $elastic forwards;
 	}

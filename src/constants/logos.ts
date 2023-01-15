@@ -41,6 +41,12 @@ export const logos: Record<string, Logo> = {
 		title: 'Microsoft',
 		path: '/logo/microsoft',
 		colors: ['#F35325', '#81BC06', '#05A6F0', '#FFBA08']
+	},
+	figma: {
+		image: '/logos/figma.png',
+		title: 'Figma',
+		path: '/logo/figma',
+		colors: ['#F24E1E', '#FF7262', '#A259FF', '#1ABCFE', '#0ACF83']
 	}
 };
 

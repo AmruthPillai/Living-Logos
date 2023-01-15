@@ -20,15 +20,9 @@
 
 <style lang="scss">
 	footer {
-		position: fixed;
-		left: 0;
-		right: 0;
-
 		opacity: 0.5;
 		font-size: 12px;
 		line-height: 1.25rem;
-		text-align: center;
-		bottom: 16px;
 
 		a {
 			color: inherit;

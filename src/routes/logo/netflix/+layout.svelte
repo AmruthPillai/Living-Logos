@@ -18,7 +18,7 @@
 </div>
 
 <style lang="scss">
-	$color-text: #f8f8f8;
+	$color-text: #ffffff;
 	$color-background: #151515;
 
 	.container {
