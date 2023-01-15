@@ -1,4 +1,4 @@
-<img src="https://github.com/AmruthPillai/Living-Logos/blob/main/static/logo.png?raw=true" width="512px" />
+<img src="https://github.com/AmruthPillai/Living-Logos/blob/main/static/logo.png?raw=true" width="300px" />
 
 Living Logos is a curation of popular logos, brought to life using HTML, CSS and some fun keyframe animations.
 
@@ -12,6 +12,7 @@ Living Logos is a curation of popular logos, brought to life using HTML, CSS and
 - [Instagram](https://living-logos.vercel.app/logo/instagram)
 - [Google](https://living-logos.vercel.app/logo/google)
 - [Microsoft](https://living-logos.vercel.app/logo/microsoft)
+- [Figma](https://living-logos.vercel.app/logo/figma)
 
 ### Tech Stack
 
