@@ -53,6 +53,12 @@ export const logos: Record<string, Logo> = {
 		title: 'Dropbox',
 		path: '/logo/dropbox',
 		colors: ['#007EE5']
+	},
+	spotify: {
+		image: '/logos/spotify.png',
+		title: 'Spotify',
+		path: '/logo/spotify',
+		colors: ['#1ED760']
 	}
 };
 
