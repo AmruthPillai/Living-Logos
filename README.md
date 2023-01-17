@@ -4,6 +4,10 @@ Living Logos is a curation of popular logos, brought to life using HTML, CSS and
 
 ### [Visit Website](https://living-logos.vercel.app)
 
+### Demo
+
+https://user-images.githubusercontent.com/1134738/213015414-223cc149-2bc9-4564-a006-08bc55be6243.mov
+
 ### Logos
 
 - [Git](https://living-logos.vercel.app/logo/git)
