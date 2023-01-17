@@ -16,6 +16,7 @@ Living Logos is a curation of popular logos, brought to life using HTML, CSS and
 - [Dropbox](https://living-logos.vercel.app/logo/dropbox)
 - [Spotify](https://living-logos.vercel.app/logo/spotify)
 - [Google Photos](https://living-logos.vercel.app/logo/google-photos)
+- [React](https://living-logos.vercel.app/logo/react)
 
 ### Tech Stack
 

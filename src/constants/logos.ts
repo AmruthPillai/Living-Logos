@@ -65,6 +65,12 @@ export const logos: Record<string, Logo> = {
 		title: 'Google Photos',
 		path: '/logo/google-photos',
 		colors: ['#E54132', '#F6B700', '#31A452', '#4080EF']
+	},
+	react: {
+		image: '/logos/react.png',
+		title: 'React',
+		path: '/logo/react',
+		colors: ['#61DAFB']
 	}
 };
 
