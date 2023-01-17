@@ -17,6 +17,7 @@ Living Logos is a curation of popular logos, brought to life using HTML, CSS and
 - [Spotify](https://living-logos.vercel.app/logo/spotify)
 - [Google Photos](https://living-logos.vercel.app/logo/google-photos)
 - [React](https://living-logos.vercel.app/logo/react)
+- [Domino's Pizza](https://living-logos.vercel.app/logo/dominos-pizza)
 
 ### Tech Stack
 

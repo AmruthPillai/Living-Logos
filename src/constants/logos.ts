@@ -71,6 +71,12 @@ export const logos: Record<string, Logo> = {
 		title: 'React',
 		path: '/logo/react',
 		colors: ['#61DAFB']
+	},
+	'dominos-pizza': {
+		image: '/logos/dominos-pizza.png',
+		title: "Domino's Pizza",
+		path: '/logo/dominos-pizza',
+		colors: ['#E31837', '#006491']
 	}
 };
 

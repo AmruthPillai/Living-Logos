@@ -17,7 +17,7 @@
 		height: 400px;
 		position: relative;
 
-		animation: fast-spin 2s ease-out forwards;
+		animation: fast-spin 1.5s ease-out forwards;
 	}
 
 	.blade {
@@ -52,7 +52,7 @@
 		@keyframes fast-spin {
 			0% {
 				opacity: 0;
-				transform: rotate(3000deg);
+				transform: rotate(2500deg);
 			}
 
 			25% {
