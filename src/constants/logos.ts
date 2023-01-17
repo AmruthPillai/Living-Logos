@@ -59,6 +59,12 @@ export const logos: Record<string, Logo> = {
 		title: 'Spotify',
 		path: '/logo/spotify',
 		colors: ['#1ED760']
+	},
+	'google-photos': {
+		image: '/logos/google-photos.png',
+		title: 'Google Photos',
+		path: '/logo/google-photos',
+		colors: ['#E54132', '#F6B700', '#31A452', '#4080EF']
 	}
 };
 
